@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :android-edittext-validator-v1.3.4-mod:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04a6d7a5d911374d6c012368fcf4e729/jetified-android-edittext-validator-v1.3.4-mod/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04a6d7a5d911374d6c012368fcf4e729/jetified-android-edittext-validator-v1.3.4-mod/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

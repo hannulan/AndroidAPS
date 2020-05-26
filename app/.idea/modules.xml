@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndroidAPS.iml" filepath="$PROJECT_DIR$/../AndroidAPS.iml" group="AndroidAPS" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="AndroidAPS/app" />
+      <module fileurl="file://$PROJECT_DIR$/../wear/wear.iml" filepath="$PROJECT_DIR$/../wear/wear.iml" group="AndroidAPS/wear" />
     </modules>
   </component>
 </project>
